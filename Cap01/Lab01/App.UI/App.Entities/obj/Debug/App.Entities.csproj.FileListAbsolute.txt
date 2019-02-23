@@ -1,0 +1,12 @@
+E:\Visual Studio 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.csprojAssemblyReference.cache
+E:\Visual Studio 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\bin\Debug\App.Entities.dll
+E:\Visual Studio 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\bin\Debug\App.Entities.pdb
+E:\Visual Studio 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.dll
+E:\Visual Studio 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.pdb
+H:\Visual Net 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\bin\Debug\App.Entities.dll
+H:\Visual Net 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\bin\Debug\App.Entities.pdb
+H:\Visual Net 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.csprojAssemblyReference.cache
+H:\Visual Net 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.csproj.CoreCompileInputs.cache
+H:\Visual Net 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.dll
+H:\Visual Net 2017 C# Developer\Taller\Lab01\App.UI\App.Entities\obj\Debug\App.Entities.pdb
