@@ -1,0 +1,25 @@
+﻿@* LENGUAJE RAZOR PARA MVC *@
+
+@model IEnumerable<Chinook.Entities.clsArtist> 
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de Artista</h2>
+<table class="table"> @* TABLE: ES UN ESTILO DE BOOTSTRAP *@
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.ArtistID</td>
+        <td>@item.Name</td>
+    </tr>
+    }
+
+</table>
+
+

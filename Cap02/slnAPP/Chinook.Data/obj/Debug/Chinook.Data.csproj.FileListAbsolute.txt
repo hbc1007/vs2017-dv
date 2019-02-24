@@ -1,0 +1,9 @@
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\bin\Debug\Chinook.Data.dll
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\bin\Debug\Chinook.Data.pdb
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\obj\Debug\Chinook.Data.csprojAssemblyReference.cache
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\obj\Debug\Chinook.Data.csproj.CoreCompileInputs.cache
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\obj\Debug\Chinook.Data.dll
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\obj\Debug\Chinook.Data.pdb
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\bin\Debug\Chinook.Entities.dll
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\bin\Debug\Chinook.Entities.pdb
+C:\Labs\vs2017-dv\Cap02\slnAPP\Chinook.Data\obj\Debug\Chinook.Data.csproj.CopyComplete
